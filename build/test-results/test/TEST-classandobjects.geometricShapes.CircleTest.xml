@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="classandobjects.geometricShapes.CircleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-14T22:29:09" hostname="Renes-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="testArea" classname="classandobjects.geometricShapes.CircleTest" time="0.012"/>
+  <system-out><![CDATA[false
+true
+true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
